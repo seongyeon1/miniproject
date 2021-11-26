@@ -21,8 +21,6 @@
 
 ## 데이터 전처리
 - 데이터 중 필요한 데이터만 추출&통합
-- 결측치는 0으로 처리
-- 유사한 지역을 바탕으로 단순히 0으로 처리하는 것이 아니라 다른 값으로 대체해보았으면 좋았을 것 같다
 ![GOMCAM 20211126_1954330867](https://user-images.githubusercontent.com/83098550/143570073-eb0e41e9-e842-4269-8339-de5b7221d438.png)
 
 ### 분기별 요일에 따른 매출
@@ -71,8 +69,19 @@
 
 Y값을 여러 가지를 한번에 예측할 수 있을까?
 
-## 머신러닝 (개선)
+## 머신러닝 (2)
 - 전체를 한 번에 예측 가능하다
+![image](https://user-images.githubusercontent.com/83098550/143577010-e0fea6b6-cf5e-4738-90f5-d0472c8b2eba.png)
+
+### Y가 복수의 변수일 경우에도 이 함수가 적용 될 수 있다.
+![image](https://user-images.githubusercontent.com/83098550/143577182-4049023d-3884-477d-adc1-39b48b0a3895.png)
+
+![image](https://user-images.githubusercontent.com/83098550/143577280-3ba90d7c-f280-47dd-adec-7f3b2276677e.png)
+
+![image](https://user-images.githubusercontent.com/83098550/143577411-27060b81-5650-4a2c-873c-5b7d0114d1d9.png)
+
+
+
 
 ## 활용방안
 

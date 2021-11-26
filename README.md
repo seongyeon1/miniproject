@@ -57,10 +57,10 @@
 ![image](https://user-images.githubusercontent.com/83098550/143571697-0ed114ca-2100-4385-9487-7347a5e17780.png)
 ![image](https://user-images.githubusercontent.com/83098550/143571705-d648c926-85b0-4e2a-9bd5-24364c6674c8.png)
 
-월요일 매출에 영향을 주는 컬럼들로 월요일 매출을 예측
+### 월요일 매출에 영향을 주는 컬럼들로 월요일 매출을 예측
 ![GOMCAM 20211126_2021510412](https://user-images.githubusercontent.com/83098550/143573734-b3f382e8-b340-4866-97e4-4f7f8fcd08b0.png)
 
-로그를 취해 매출의 분포가 정규분포에 가깝게 하여 정확도를 높이고자 하였다
+### 로그를 취해 매출의 분포가 정규분포에 가깝게 하여 정확도를 높이고자 하였다
 ![GOMCAM 20211126_2009020346](https://user-images.githubusercontent.com/83098550/143571972-6db5d909-7325-44a5-905a-dfcf72f4a8e5.png)
 
 ![image](https://user-images.githubusercontent.com/83098550/143573989-d6bc8098-0148-4ea4-aeb2-a490152fda8d.png)
@@ -80,9 +80,36 @@ Y값을 여러 가지를 한번에 예측할 수 있을까?
 
 ![image](https://user-images.githubusercontent.com/83098550/143577411-27060b81-5650-4a2c-873c-5b7d0114d1d9.png)
 
+![image](https://user-images.githubusercontent.com/83098550/143613395-8252fff5-a43c-422e-b7ff-d314e4b1ec6d.png)
+![image](https://user-images.githubusercontent.com/83098550/143613404-ce41ad45-1fad-41a9-8ee3-82c9e1c03ffe.png)
 
+## 딥러닝
+![그림1](https://user-images.githubusercontent.com/83098550/143613479-91e38474-8985-428f-b840-f8ca2bc1b34b.png)
 
+## 개선
+![image](https://user-images.githubusercontent.com/83098550/143613519-05d3e7e7-a9f8-4f42-9986-27d2805b9f10.png)
+
+![image](https://user-images.githubusercontent.com/83098550/143613533-438dfa9e-16fc-478f-99d7-d8193df525e8.png)
+
+![image](https://user-images.githubusercontent.com/83098550/143613662-cb228a4b-1123-43cf-af55-7057f78b840d.png)
+
+![image](https://user-images.githubusercontent.com/83098550/143613701-9644b309-cb64-442e-bb0c-058a56d88803.png)
+
+![image](https://user-images.githubusercontent.com/83098550/143613777-95e90986-c33e-45e8-bcab-b389523545ca.png)
+
+![image](https://user-images.githubusercontent.com/83098550/143613737-61973b81-15d2-4c48-88a7-dbaa30eed5de.png)
+
+![image](https://user-images.githubusercontent.com/83098550/143613761-30a08a15-e133-4ff7-8336-177e0f3ebd86.png)
 
 ## 활용방안
+완성 예상 화면
+![image](https://user-images.githubusercontent.com/83098550/143613960-2b262f8d-b5cc-47d1-bcd7-96408dee0c33.png)
 
-## 
+- 요식업을 지속적으로 하는데 중요한 예상 매출을 파악하는 프로그램을 제작
+- 데이터 분석 기법을 활용하여 기존의 직감적인 경영 방식에서 좀 더 과학적인 경영으로의 전환
+
+## 아쉬운점
+- 최적의 파라미터를 구하는 시간이 부족하여 아쉬움이 남는다. (GridSearchCV)
+- 데이터 분석에 2020년 자료만 사용하여 풍부한 자료를 사용하지 못한 것이 아쉽다.
+- 시간상의 관계로 딥러닝이나 머신러닝의 모델을 만드는 과정에서 여러가지 방식들로 해보고 비교해보지 못해서 아쉽다.
+
